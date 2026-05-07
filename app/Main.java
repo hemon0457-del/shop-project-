@@ -1,8 +1,8 @@
-// Practise.java
+// Main.java
 
 import java.util.Scanner;
 
-public class Practise {
+public class Main {
 
     public static final int MAX_ITEMS = 5;
 
